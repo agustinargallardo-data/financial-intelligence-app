@@ -1,0 +1,13 @@
+date,amount,type,category,description
+2025-01-01,1200,income,salary,Monthy salary
+2025-01-02,300,expense,food,Groceries
+2025-01-03,50,expense,transport,Uber ride
+2025-01-05,120,expense,entertrainment,Movies
+2025-01-07,expense,rent,January rent
+2025-01-10,80,expense,health,Pharmacy
+2025-01-12,150,expense,education,Online course
+2025-01-15,200,income,freelance,Freelance work
+2025-01-18,60,expense,food,Restaurant
+2025-01-20,40,expense,transport,Bus and metro
+2025-01-25,100,expense,entertrainment,Concert
+2025-01-28,150,expense,savings,Monthly savings
