@@ -1,23 +1,36 @@
-# Financial Intelligence App 💰📊
+# AI-Powered Personal Finance Tracker
 
-A personal finance data project that analyzes income and expenses to generate insights and basic predictions, with the goal of improving financial decision-making.
+This project analyzes personal income and expenses data to help improve financial awareness
+and decision-making using data science techniques.
 
-This project is part of my Data Science portfolio and is currently under development.
+## Project Overview
+The goal of this project is to explore personal financial data, identify spending patterns,
+and build a simple predictive model to estimate future expenses.
 
----
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
-## 📌 Problem
-Many people struggle to understand their spending habits, identify where their money goes, and make informed financial decisions based on data.
+## Key Features
+- Income and expense tracking
+- Expense categorization
+- Monthly aggregation of expenses
+- Linear Regression model for expense prediction
+- Data visualization for insights
 
----
+## Results
+The model provides a basic prediction of future expenses based on historical trends.
+Although simple, it demonstrates the complete data science workflow from raw data
+to actionable insights.
 
-## 💡 Solution
-This project applies data analysis and basic machine learning techniques to:
-- Analyze income and expense patterns
-- Identify major spending categories
-- Generate visual insights
-- Lay the foundation for expense prediction and financial recommendations
-
+## Future Improvements
+- More data and longer time periods
+- Advanced time-series forecasting models
+- Integration with a web application interface
+- Automated financial recommendations
 ---
 
 ## 📊 Data
