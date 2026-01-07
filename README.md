@@ -72,3 +72,10 @@ Planned improvements:
 
 ## 🚧 Project Status
 Work in progress 🚀
+
+---
+## Notebook Visualization
+If the Jupyter Notebook does not render correctly on GitHub, you can view and run it here: 
+Google Colab Notebook: https://colab.research.google.com/drive/1-GSJevriJHEdBOXDHRD6a37Wx5Ks8JNF?usp=sharing
+https://colab.research.google.com/drive/169ZWAvn5HMTy73ycgQCeGcbbkosDBxuI?usp=sharing
+The notebook runs correctly in Google Colab and contains all analysis, visualizations, predictions, and financial recommendations.
