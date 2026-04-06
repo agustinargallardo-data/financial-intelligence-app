@@ -33,7 +33,7 @@ to actionable insights.
 - Automated financial recommendations
 ---
 
-## 📊 Data
+## Data
 The dataset contains personal finance transactions, including:
 - Date
 - Category
@@ -44,7 +44,7 @@ Sample data is stored in the `data/` folder for demonstration purposes.
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 The EDA includes:
 - Total income vs total expenses analysis
 - Spending distribution by category
@@ -52,7 +52,7 @@ The EDA includes:
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 Planned improvements:
 - Expense prediction using regression models
 - Monthly spending forecasting
@@ -61,7 +61,7 @@ Planned improvements:
 
 ---
 
-## 🛠 Technologies
+## Technologies
 - Python
 - Pandas
 - NumPy
@@ -70,7 +70,7 @@ Planned improvements:
 
 ---
 
-## 🚧 Project Status
+## Project Status
 Work in progress 🚀
 
 ---
